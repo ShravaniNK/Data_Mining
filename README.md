@@ -2,7 +2,7 @@
 
 ## Project Overview
  - This project explores machine learning techniques to predict building energy performance using the UCI Machine Learning Repository's Energy Efficiency dataset.
- - The objective is to predict two target variables—Heating Load and Cooling Load—based on building design characteristics. Multiple regression algorithms are compared to evaluate predictive performance and examine the impact of feature selection and scaling.
+ - The objective is to predict two target variables, Heating Load and Cooling Load, based on building design characteristics. Multiple regression algorithms are compared to evaluate predictive performance and examine the impact of feature selection and scaling.
 
 ## Dataset:
  - Source: UCI Energy Efficiency Dataset
